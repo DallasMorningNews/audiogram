@@ -22,7 +22,8 @@
   },
   "Waveform (dark)": {
     "backgroundColor": "#0185d3",
-    "foregroundColor": "white"
+    "foregroundColor": "white",
+    "pattern": "curve"
   },
   "Background image with top right text": {
     "captionAlign": "right",
@@ -68,6 +69,7 @@
     "captionTop": 40,
     "captionBottom": 380,
     "waveTop": 420,
-    "waveBottom": 720
+    "waveBottom": 720,
+    "waveColor": "#eee"
   }
 }
