@@ -56,7 +56,7 @@
   "Equalizer": {
     "backgroundColor": "#0185d3",
     "foregroundColor": "white",
-    "pattern": "equalizer",
+    "pattern": "bricks",
     "captionTop": 40,
     "captionBottom": 380,
     "waveTop": 420,
