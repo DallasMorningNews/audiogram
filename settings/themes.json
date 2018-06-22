@@ -15,14 +15,14 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "DMN waveform - light": {
+  "Waveform (light)": {
     "backgroundColor": "#eee",
     "captionColor": "#515151",
     "foregroundColor": "#0185d3"
   },
-  "DMN waveform - dark": {
+  "Waveform (dark)": {
     "backgroundColor": "#0185d3",
-    "foregroundColor": "#white"
+    "foregroundColor": "white"
   },
   "Background image with top right text": {
     "captionAlign": "right",
@@ -34,7 +34,7 @@
     "waveBottom": 660,
     "waveTop": 320
   },
-  "DMN bars - light": {
+  "Bars": {
     "captionAlign": "left",
     "captionLeft": 60,
     "captionRight": 640,
@@ -45,30 +45,29 @@
     "captionColor": "#515151",
     "foregroundColor": "#0185d3"
   },
-  "DMN waveform 2 - light": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "foregroundColor": "#0185d3"
-  },
-  "DMN equalizer": {
-    "backgroundColor": "#0185d3",
-    "foregroundColor": "#white",
-    "pattern": "equalizer",
-    "captionTop": 40,
-    "captionBottom": 380,
-    "waveTop": 420,
-    "waveBottom": 720
-  },
-  "Square with background image": {
+  "Bars (square)": {
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
     "waveTop": 20,
     "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "captionAlign": "left",
+    "captionLeft": 60,
+    "captionRight": 640,
+    "captionBottom": 660,
+    "captionTop": null,
+    "pattern": "roundBars",
+    "backgroundColor": "#eee",
+    "captionColor": "#515151",
+    "foregroundColor": "#0185d3"
+  },
+  "Equalizer": {
+    "backgroundColor": "#0185d3",
+    "foregroundColor": "white",
+    "pattern": "equalizer",
+    "captionTop": 40,
+    "captionBottom": 380,
+    "waveTop": 420,
+    "waveBottom": 720
   }
 }
