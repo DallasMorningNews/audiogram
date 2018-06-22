@@ -54,7 +54,7 @@
     "captionAlign": "left",
     "captionLeft": 60,
     "captionRight": 640,
-    "captionBottom": 660,
+    "captionBottom": 600,
     "captionTop": null,
     "pattern": "roundBars",
     "backgroundColor": "#eee",
