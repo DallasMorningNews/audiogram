@@ -9,7 +9,7 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 52px 'Gotham'",
+    "captionFont": "400 52px 'Gotham'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
@@ -25,16 +25,6 @@
     "foregroundColor": "white",
     "pattern": "curve"
   },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
   "Bars": {
     "captionAlign": "left",
     "captionLeft": 60,
@@ -46,7 +36,7 @@
     "captionColor": "#515151",
     "foregroundColor": "#0185d3"
   },
-  "Bars (square)": {
+  "Bars (Instagram)": {
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
@@ -60,7 +50,8 @@
     "pattern": "roundBars",
     "backgroundColor": "#eee",
     "captionColor": "#515151",
-    "foregroundColor": "#0185d3"
+    "foregroundColor": "#0185d3",
+    "maxDuration": 60
   },
   "Equalizer": {
     "backgroundColor": "#0185d3",
