@@ -11,7 +11,8 @@ var logger = require("../lib/logger/"),
     render = require("./render.js"),
     status = require("./status.js"),
     fonts = require("./fonts.js"),
-    errorHandlers = require("./error.js");
+    errorHandlers = require("./error.js"),
+    dmnAuth = require('../lib/dmn-auth');
 
 // Settings
 var serverSettings = require("../lib/settings/");
@@ -20,6 +21,7 @@ var app = express();
 
 app.use(compression());
 app.use(logger.morgan());
+dmnAuth(app);
 
 // Options for where to store uploaded audio and max size
 var fileOptions = {
