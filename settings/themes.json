@@ -62,5 +62,30 @@
     "waveTop": 420,
     "waveBottom": 720,
     "waveColor": "#eee"
+  },
+  "Sexual Assault at A&M": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "am_sexassault_bg.png",
+    "foregroundColor": "#7d2325",
+    "waveBottom": 550,
+    "waveTop": 300,
+    "pattern": "curve"
+  },
+  "Sexual Assault at A&M (square)": {
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "am_sexassault_bg_square.png",
+    "foregroundColor": "#7d2325",
+    "waveBottom": 550,
+    "waveTop": 300,
+    "pattern": "curve"
   }
 }
