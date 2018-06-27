@@ -96,7 +96,7 @@
     "waveTop": 265,
     "pattern": "curve"
   },
-  "Sexual Assault at A&M (square)": {
+  "Sexual Assault at A&M - Hannah (square)": {
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
@@ -104,10 +104,38 @@
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "am_sexassault_bg_square.png",
-    "foregroundColor": "#7d2325",
-    "waveBottom": 550,
-    "waveTop": 300,
+    "backgroundImage": "am_sexassault_hannah_square.png",
+    "foregroundColor": "#808080",
+    "waveBottom": 443,
+    "waveTop": 193,
+    "pattern": "curve"
+  },
+  "Sexual Assault at A&M - Kendra (square)": {
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "am_sexassault_kendra_square.png",
+    "foregroundColor": "#808080",
+    "waveBottom": 443,
+    "waveTop": 193,
+    "pattern": "curve"
+  },
+  "Sexual Assault at A&M - Meghan (square)": {
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "am_sexassault_meghan_square.png",
+    "foregroundColor": "#808080",
+    "waveBottom": 443,
+    "waveTop": 193,
     "pattern": "curve"
   }
 }
