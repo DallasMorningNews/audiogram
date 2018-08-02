@@ -16,12 +16,12 @@
     "captionRight": 1080
   },
   "Waveform (light)": {
-    "backgroundColor": "#eee",
+    "backgroundImage": "dmn-light.png",
     "captionColor": "#515151",
     "foregroundColor": "#0185d3"
   },
   "Waveform (dark)": {
-    "backgroundColor": "#0185d3",
+    "backgroundImage": "dmn-dark.png",
     "foregroundColor": "white",
     "pattern": "curve"
   },
@@ -32,7 +32,7 @@
     "captionBottom": 660,
     "captionTop": null,
     "pattern": "roundBars",
-    "backgroundColor": "#eee",
+    "backgroundImage": "dmn-light.png",
     "captionColor": "#515151",
     "foregroundColor": "#0185d3"
   },
@@ -48,7 +48,7 @@
     "captionBottom": 600,
     "captionTop": null,
     "pattern": "roundBars",
-    "backgroundColor": "#eee",
+    "backgroundImage": "dmn-light-square.png",
     "captionColor": "#515151",
     "foregroundColor": "#0185d3",
     "maxDuration": 60
