@@ -22,11 +22,10 @@ module.exports = {
   workingDirectory: path.join(__dirname, "..", "tmp"),
   storagePath: path.join(__dirname, "..", "media"),
   fonts: [
-    // { family: "Gotham", file: path.join(__dirname, "fonts", "GothaBoo.ttf") },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Regular.ttf") },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Light.ttf"), weight: 300 },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Bold.ttf"), weight: "bold" },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Italic.ttf"), style: "italic" },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" }
+    { family: "Montserrat", file: path.join(__dirname, "fonts", "Montserrat-Regular.ttf") },
+    { family: "Montserrat", file: path.join(__dirname, "fonts", "Montserrat-Light.ttf"), weight: 300 },
+    { family: "Montserrat", file: path.join(__dirname, "fonts", "Montserrat-Bold.ttf"), weight: "bold" },
+    { family: "Montserrat", file: path.join(__dirname, "fonts", "Montserrat-Italic.ttf"), style: "italic" },
+    { family: "Montserrat", file: path.join(__dirname, "fonts", "Montserrat-BoldItalic.ttf"), weight: "bold", style: "italic" }
   ]
 };
