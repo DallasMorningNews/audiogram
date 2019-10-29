@@ -1,6 +1,7 @@
 # dmn-audiogram (🔊 -> 🎥)
 
 Audiogram is a library for generating shareable videos from audio clips.
+## NOTE: This app was mothballed in October 2019. For more information, look for the "Audiogram Sunsetting Info" secure note in 1password.
 
 ## What's in here
 
